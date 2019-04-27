@@ -1,4 +1,4 @@
-# Google Interview University
+# Coding Interview University
 
 Original: [англійською](README.md)
 
@@ -7,7 +7,7 @@ Original: [англійською](README.md)
 Це мій багатомісячний навчальний план для перетворення з веб-розробника (самоучки без ступеню з CS)
 на розробника програмного забезпечення у Google.
 
-![Програмування у дошки — з серіалу «Silicon Valley» HBO](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![Програмування у дошки — з серіалу «Silicon Valley» HBO](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
 Цей довгий список був видобутий і розширений з **тренувальних нотаток Google**, отже це речі, які ви повинні знати.
 Тут є додаткові пункти, які я додав знизу — вони можуть зустрітися в інтерв’ю або бути корисними у вирішенні завдань.
@@ -171,7 +171,7 @@ Original: [англійською](README.md)
 
 `git checkout -b progress`
 
-`git remote add jwasham https://github.com/jwasham/google-interview-university`
+`git remote add jwasham https://github.com/jwasham/coding-interview-university`
 
 `git fetch --all`
 
